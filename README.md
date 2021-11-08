@@ -1,5 +1,3 @@
-# tugas_quiz
-aplikasi kasir
 <html>
   <head>
     <title>Ahmad Saefudin al Bayani</title>
